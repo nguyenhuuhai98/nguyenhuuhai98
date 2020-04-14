@@ -1,0 +1,21 @@
+{
+  "name": "project1",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Huu Hai <nguyenhuuhai98@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nguyenhuuhai98/project-1-bower.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "hai-bower": "*"
+  }
+}
